@@ -1,0 +1,97 @@
+[
+  {
+    "Dn": "cn=test1,dc=example,dc=com",
+    "Attributes": {
+      "email": [
+        "test1@example.com"
+      ],
+      "role": [
+        "Administrator"
+      ],
+      "objectclass": [
+        "inetOrgPerson"
+      ],
+      "displayname": [
+        "Test User 1"
+      ],
+      "uid": [
+        "test1"
+      ]
+    }
+  },
+  {
+    "Dn": "cn=test2,dc=example,dc=com",
+    "Attributes": {
+      "email": [
+        "test2@example.com",
+        "test2-alias@example.com"
+      ],
+      "role": [
+        "Employee"
+      ],
+      "objectclass": [
+        "inetOrgPerson"
+      ],
+      "displayname": [
+        "Test User 2"
+      ],
+      "uid": [
+        "test2"
+      ]
+    }
+  },
+  {
+    "Dn": "cn=test3,dc=example,dc=com",
+    "Attributes": {
+      "email": [
+        "test3@example.com"
+      ],
+      "objectclass": [
+        "inetOrgPerson"
+      ],
+      "displayname": [
+        "Test User 3"
+      ],
+      "uid": [
+        "test3"
+      ]
+    }
+  },
+  {
+    "Dn": "cn=benutzer4,dc=example,dc=com",
+    "Attributes": {
+      "email": [
+        "benutzer4@example.com"
+      ],
+      "objectclass": [
+        "inetOrgPerson"
+      ],
+      "displayname": [
+        "Benutzer 4"
+      ],
+      "uid": [
+        "test4"
+      ]
+    }
+  },
+  {
+    "Dn": "cn=sergey,dc=example,dc=com",
+    "Attributes": {
+      "email": [
+        "sergey@example.com"
+      ],
+      "objectclass": [
+        "user"
+      ],
+      "displayname": [
+        "Sergey Azarenko"
+      ],
+      "uid": [
+        "test4"
+      ],
+      "samaccountname": [
+        "LAPTOP-HP\\User"
+      ]
+    }
+  }
+]
